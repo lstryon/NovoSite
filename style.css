@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#mr{
+    box-sizing: border-box;
+    
+}
+
+#mrbody{
+    background-image: url(https://s9.limitedrun.com/images/1458903/Background_1.png);
+    background-size: cover;
+    height: 200vh;
+    margin-left:190px;
+    
+    
+}
+
+#mrbodycontent{
+    background-image: url(https://s9.limitedrun.com/images/1458917/Homepage.png);
+    height: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+
+#bees{
+    height: 200px; 
+    position: absolute;
+    top:0;
+}
+
+/* #lights{
+    position: absolute;
+    height: 100px;
+    top: 0;
+    right: 0;
+    transform: translateX(20%) rotate(45deg);
+} */
+
+#mrslide{
+    
+    background-color: #5c8cfd;
+    overflow: hidden;
+    position: fixed;
+    height: 100vh;
+    width: 190px;
+    text-align: center;
+
+}
+
+#links1{
+    position: relative;
+    top: 25%;
+}
+
+#links2{
+    position: relative;
+    top: 59%;
+}
+
+
+#camisa1{
+    height:320px;
+    width: 300px;
+    background-color: cornflowerblue;
+    position: relative;
+    
+}
+
+#camisa2{
+    height: 320px;
+    width: 300px;
+    background-color:black; 
+    position: relative;
+  
+
+}
+
+#camisa3{
+    height: 320px;
+    width: 300px;
+    background-color:blueviolet; 
+    position: relative;
+   
+
+   ;
+}
